@@ -1,0 +1,21 @@
+crete a folder name flufineess
+
+-->flufiness.info.yml name base theme core version libraries
+-->flufuness.librabries.yml
+-->flufuness.theme.yml
+-->>flufuness.breakpoints.yml
+
+then cretae a folder of css and js
+and crete style.css and flufiness .js
+create a folder with images 
+
+
+create anothe folder name templates
+where entire layout of theme will be present
+go to themes stable theme and get templltes files p
+
+in libraries file 
+global-styling is an object
+css:
+theme:
+css and theme are sections 

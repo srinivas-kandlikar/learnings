@@ -1,0 +1,45 @@
+admin toolbar
+data migration
+manage form display is internal form  and manage display is external
+demonstrate block regions show block in entire theme of the site
+under custom block library under block types you can create and seperate block and fields
+weight module
+custom block types in drupal 8 added new to 8 version 
+click on appearance under that Use the administration theme when editing or creating content so that form will be visiable from theme
+
+article and basic page are content types 
+content is a view
+
+link to edit and delete can be done in views
+to combine both take custom text and place both init
+
+
+how to export views using yml file
+learnt contextual filters to filter data removes fields and place in side bar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+difference between drupal 8 anad 7 
+
+custom block types in drupal 8 added new to 8 version 
+drupal 7 there we need to download webform but in 8 contact form is direct 
+and telephone field is alos added to form
+views became core module 
+twig engine 
+yml file indentation 
+ck editor defualt
+
+
+

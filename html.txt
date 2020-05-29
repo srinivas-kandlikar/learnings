@@ -1,0 +1,15 @@
+diff between html 4 aand 5:
+canvas 
+svg
+
+audio media figure aside section header section footer nav drag adn drop
+
+empty elements: are without closing tags<hr><br>
+
+attributes:which provides extra information to element
+href, src, height ,width,alt,style
+semantic elements are <article><aside><details><figure><section><nav>
+xhtml: extensible hypertext markup language
+xhtml is stricter 
+xml based html
+under GET method values will be visible in url and post cannot be seen in url

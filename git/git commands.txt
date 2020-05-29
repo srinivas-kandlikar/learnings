@@ -1,0 +1,7 @@
+git add
+git config --global user.name 'srinivas kandlikar'
+git config --global user.name 'srinivas.us231@gmail.com'
+git add .
+git commit -m 'message'
+git remote add origin https://github.com/srinivas-kandlikar/learnings.git
+git push -u origin master 

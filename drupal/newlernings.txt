@@ -1,0 +1,18 @@
+how to enable debugging in drupal 8 frnt end
+oping sites/default/services.yml file and rename the new file to services.yml and enable debug :true
+
+3 ways to chek errors 
+1. debig mode true in services .yml file
+2. errors nd logs
+3. status report
+
+
+
+how to add fileds to people default regitstraiotn
+ go to configuration-->people -->account setting--manage fileds and add 
+
+
+crearion of form s=using content type 
+crete a form and disbale administration theme in drupal and add content got to fromt page
+
+if user exists is should accept the form or elswe no

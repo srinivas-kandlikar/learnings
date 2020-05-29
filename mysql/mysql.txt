@@ -1,0 +1,13 @@
+sql fullform structured query language 
+case senstive means select and SELECT are different 
+not case sensitive means select and Select are same
+
+select * from customers ; to select all values
+select column1 , column 2 from customers;
+select distinct column1 from customers;
+select count(distinct column1) from customers;
+select * from customers where country ='germany';
+select * from customers where price > 40;
+select * from customers where price > 40 and ID = 2;
+SELECT * FROM Products WHERE Price BETWEEN 50 AND 60;
+SELECT * FROM Customers WHere NOT Country = 'Germany'; 
